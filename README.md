@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I’m Jean-Marc 👋
 
-<!--
-**broccoliandpepper/broccoliandpepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ICT **System** Engineer & IT project lead with 15+ years of experience on Microsoft infrastructures: Windows Server, Active Directory, Microsoft 365 and Entra ID.
 
-Here are some ideas to get you started:
+- 🔧 Daily drivers: PowerShell, Windows Server, AD, M365, Entra ID
+- ☁️ Interests: automation, security hardening, infrastructure as code, clean documentation
+- 🧩 What I enjoy: troubleshooting nasty infra issues, making repetitive tasks disappear with scripts, helping teams understand what’s running under the hood
+- 🌍 Based in Brussels, working in international / NGO contexts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you’ll find here
+
+- 🛠️ Scripts and small tools for system administration and automation  
+- 🧪 Lab projects and experiments around Microsoft infrastructures and security  
+- 📚 Configuration examples and notes I use to document what I learn
+
+### What I’m looking for
+
+- Roles mixing system engineering, automation and project coordination  
+- Environments where I can modernize infra, reduce manual work and improve security
+
+### A bit more human stuff
+
+- 🍜 Big fan of nouilles (ramen, udon & co)
+- ⛰️ Love the mountains and hiking
+- ⛩️ Fascinated by Shinto shrines and Japanese culture
+- 🍫 Powered by good chocolate
+
+📫 You can reach me on LinkedIn: [Jean-Marc Alpesse](https://www.linkedin.com/in/jeanmarcalpesse/)
