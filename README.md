@@ -1,81 +1,93 @@
 ## Welcome to my GitHub 👋
 
-### Hi there, I’m Jean-Marc
+### Hi, I’m Jean-Marc
 
-ICT **System** Engineer & IT Project Lead with 15+ years of experience on Microsoft infrastructures: Windows Server, Active Directory, Microsoft 365 and Entra ID.  
-I design, secure and automate infrastructures so that teams can focus on their work instead of fighting with IT.
+ICT **System** Engineer & IT Project Lead with 15+ years of experience across Microsoft infrastructures: **Windows Server, Active Directory, Microsoft 365 and Entra ID**.
+
+I design, secure and automate IT environments so they become easier to manage, safer to operate, and better documented.  
+My focus is simple: reduce friction for users and admins, improve security, and turn complex infrastructure into something reliable and maintainable.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean--Marc%20Alpesse-blue?logo=linkedin)](https://www.linkedin.com/in/jeanmarcalpesse/)
 ![Profile Views](https://komarev.com/ghpvc/?username=broccoliandpepper&color=blueviolet)
 
-> Most of the content here comes from my labs and experiments – don’t use it in production without adapting and testing it first.
+> Most of the content here comes from my labs, experiments and real-world infrastructure thinking — please adapt and test everything before using it in production.
 
 ---
 
-### 🔍 What I’m looking for
+### 🎯 Where I create value
 
-- Roles mixing system engineering, automation and project coordination  
-- Environments where I can modernize infra, reduce manual work and improve security  
-- Microsoft 365 / Entra ID–centric environments (SME / NGO / mid-sized orgs)
+- Modernizing Microsoft infrastructures from legacy on-prem to secure hybrid environments  
+- Automating repetitive administration tasks with practical PowerShell tooling  
+- Improving identity, collaboration and endpoint security with Microsoft 365 / Entra ID  
+- Bridging hands-on engineering, documentation and project coordination  
 
 ---
 
 ### ⭐ Featured projects
 
-These repositories give a good overview of what I do.
+These repositories reflect the kind of work I enjoy most: infrastructure design, automation, documentation and secure-by-default thinking.
 
 - **PME-Infra-Documentation**  
-  Infrastructure journey of a small business from legacy on‑prem to modern hybrid cloud (network, security, storage, M365, Defender, Intune).  
+  End-to-end infrastructure documentation for a small business moving from legacy on-premises systems to a modern hybrid environment: network, storage, security, Microsoft 365, Defender and Intune.  
   ➜ [Repository](https://github.com/broccoliandpepper/PME-Infra-Documentation)
 
 - **Global-Deployment-of-Microsoft-Places**  
-  End‑to‑end guide and scripts to deploy Microsoft Places across multiple offices with Microsoft 365 Business Premium (no extra licenses).  
+  Deployment guide and scripts for rolling out Microsoft Places across multiple offices with Microsoft 365 Business Premium, with a pragmatic licensing-conscious approach.  
   ➜ [Repository](https://github.com/broccoliandpepper/Global-Deployment-of-Microsoft-Places)
 
 - **Infra-pfSense**  
-  Production‑ready homelab based on pfSense, Hyper‑V, VLANs, DMZ and reverse proxy (Traefik) for testing secure architectures.  
+  Secure homelab architecture built around pfSense, Hyper-V, VLANs, DMZ and reverse proxying with Traefik — designed to explore segmentation, exposure control and resilient infrastructure patterns.  
   ➜ [Repository](https://github.com/broccoliandpepper/Infra-pfSense)
 
 - **M365-Storage-Reports**  
-  PowerShell scripts to export storage and usage across Exchange Online, OneDrive, SharePoint/Teams into consolidated reports.  
+  PowerShell scripts to collect and consolidate storage and usage data across Exchange Online, OneDrive, SharePoint and Teams into usable reports for visibility and decision-making.  
   ➜ [Repository](https://github.com/broccoliandpepper/M365-Storage-Reports)
 
 ---
 
 ### 🧰 Tech stack & interests
 
-- **Daily drivers**: PowerShell, Windows Server, Active Directory, Microsoft 365, Entra ID  
+- **Core tools**: PowerShell, Windows Server, Active Directory, Microsoft 365, Entra ID  
 - **Cloud & security**: Conditional Access, identity security, Exchange Online, Teams, Defender, Intune  
-- **Infra topics**: network segmentation (VLAN/DMZ), reverse proxy, backup & storage  
-- **What I enjoy**:  
-  - Troubleshooting nasty infra issues  
-  - Making repetitive tasks disappear with scripts  
-  - Turning tribal knowledge into clear documentation
+- **Infrastructure topics**: network segmentation, VLANs, DMZ, reverse proxy, backup and storage  
+- **What I enjoy most**:
+  - Solving messy infrastructure problems
+  - Removing repetitive work through scripting and automation
+  - Turning tribal knowledge into clear, reusable documentation
 
 ---
 
 ### 📦 What you’ll find here
 
 - 🛠️ Scripts and small tools for system administration and automation  
-- 🧪 Lab projects and experiments around Microsoft infrastructures and security  
-- 📚 Configuration examples and notes I use to document what I learn
+- 🧪 Lab projects around Microsoft infrastructure, networking and security  
+- 📚 Documentation, notes and configuration examples built while learning and testing  
+- 🧭 Practical approaches to making infrastructure clearer, safer and easier to operate  
 
 ---
 
-### 👤 A bit more human stuff
+### 👤 A bit more human
 
-- 🍜 Big fan of nouilles (ramen, udon & co)  
-- ⛰️ Love the mountains and hiking  
-- ⛩️ Fascinated by Shinto shrines and Japanese culture  
-- 🍫 Powered by good chocolate
+Outside of tech, I also enjoy the quieter things that help me reset and stay curious:
 
-📫 You can reach me on LinkedIn: [Jean-Marc Alpesse](https://www.linkedin.com/in/jeanmarcalpesse/)
+- 🍜 Big fan of noodles — ramen, udon and anything in that universe  
+- ⛰️ Mountains, hiking and being outdoors  
+- ⛩️ Japanese culture and Shinto shrines  
+- 🍫 Good chocolate is always a valid upgrade
+
+---
+
+### 📫 Let’s connect
+
+If you’d like to talk about Microsoft infrastructure, automation, security, documentation or project coordination, feel free to reach out.
+
+[LinkedIn – Jean-Marc Alpesse](https://www.linkedin.com/in/jeanmarcalpesse/)
 
 ---
 
 ### 📊 GitHub stats
 
-> Stats are not everything, but they give a quick idea of my activity.
+> Stats are not everything, but they offer a quick snapshot of activity and interests.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=broccoliandpepper&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broccoliandpepper&layout=compact)
