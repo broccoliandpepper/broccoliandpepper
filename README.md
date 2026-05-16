@@ -27,6 +27,10 @@ My focus is simple: reduce friction for users and admins, improve security, and 
 
 These repositories reflect the kind of work I enjoy most: infrastructure design, automation, documentation and secure-by-default thinking.
 
+- **CIVIS-M365**  
+  CIVIS M365 is a lightweight, self-hosted platform designed to improve Microsoft 365 security visibility in organizations that need practical monitoring capabilities without the cost and operational overhead of enterprise SIEM adoption.
+  ➜ [Repository](https://github.com/broccoliandpepper/CIVIS-M365)
+
 - **PME-Infra-Documentation**  
   End-to-end infrastructure documentation for a small business moving from legacy on-premises systems to a modern hybrid environment: network, storage, security, Microsoft 365, Defender and Intune.  
   ➜ [Repository](https://github.com/broccoliandpepper/PME-Infra-Documentation)
