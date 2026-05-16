@@ -31,6 +31,10 @@ These repositories reflect the kind of work I enjoy most: infrastructure design,
   CIVIS M365 is a lightweight, self-hosted platform designed to improve Microsoft 365 security visibility in organizations that need practical monitoring capabilities without the cost and operational overhead of enterprise SIEM adoption.
   ➜ [Repository](https://github.com/broccoliandpepper/CIVIS-M365)
 
+- **Azure Hub-and-Spoke Lab with Bicep**  
+  This lab is designed as a learning resource to discover and practice Bicep by building an Azure Hub-and-Spoke network architecture. It is intended for self-taught architects, cloud engineers, and curious students who want to gain solid foundations in infrastructure as code with Bicep, starting from a modular, scalable, and educational base.
+  ➜ [Repository](https://github.com/broccoliandpepper/Azure-Hub-and-Spoke-Lab-with-Bicep-Foundation-Phase)
+
 - **PME-Infra-Documentation**  
   End-to-end infrastructure documentation for a small business moving from legacy on-premises systems to a modern hybrid environment: network, storage, security, Microsoft 365, Defender and Intune.  
   ➜ [Repository](https://github.com/broccoliandpepper/PME-Infra-Documentation)
